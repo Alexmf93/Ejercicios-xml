@@ -1,0 +1,31 @@
+<Web>
+    <concesionario>Coches S.L. Granada
+        <coche1>
+            <modelo>BMW</modelo>
+            <estado>nuevo</estado>
+            <precio>1000000€</precio>
+        </coche1>
+        <coche2>
+            <modelo>Nissan</modelo>
+            <estado>usado</estado>
+            <precio>40000€</precio>
+        </coche2>
+        <coche3>
+            <modelo>Audi</modelo>
+            <estado>nuevo</estado>
+            <precio>54000€</precio>
+        </coche3>
+    </concesionario>
+    <concesionario>
+            <coche1>
+                <modelo>Megane usado 20000€</modelo>
+                <estado>usado</estado>
+                <precio>200000€</precio>
+            </coche1>
+            <coche2>
+                <modelo>Peugeot</modelo>
+                <estado>nuevo</estado>
+                <precio>12000€</precio>
+            </coche2>
+    </concesionario>
+</Web> 

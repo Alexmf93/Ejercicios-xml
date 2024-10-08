@@ -1,0 +1,16 @@
+<Restaurante>
+    <Menu>
+        <Plato>
+            <categoria>Principal</categoria>
+            <nombre>Hmaburguesa</nombre>
+            <precio>5.5€</precio>
+            <calorias>200cal</calorias>
+        </Plato>
+        <Plato>
+            <categoria>Postre</categoria>
+            <nombre>tarta 3 chocolates</nombre>
+            <precio>3.5€</precio>
+            <calorias>300cal</calorias>
+        </Plato>
+    </Menu>
+</Restaurante>
