@@ -18,7 +18,7 @@
     </concesionario>
     <concesionario>
             <coche1>
-                <modelo>Megane usado 20000€</modelo>
+                <modelo>Megane usado</modelo>
                 <estado>usado</estado>
                 <precio>200000€</precio>
             </coche1>
